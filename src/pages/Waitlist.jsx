@@ -14,15 +14,15 @@ const Waitlist = () => {
               
              
          <section>
-         <div className="intro ml-16 ">
+         <div className="intro ml-14 ">
          
-              <h1 className='sm:text-5xl text-3xl transition-all font-bold font-sans'>Introducing Wiauat App: <br />Revolutionizing Tracking, Security <br />and Locating</h1>
-                  <p className='font-sans font-medium mt-10'>We're currently under development, but we invite you to join our <br />
+              <h1 className='sm:text-5xl text-4xl text-balance transition-all font-bold font-sans'>Introducing Wiauat App: <br />Revolutionizing Tracking, Security <br />and Locating</h1>
+                  <p className='font-serif  font-bold mt-10'>We're currently under development, but we invite you to join our <br />
                       community to stay updated on our progress, provide feedback,<br />
                       and help shape the future of Wiauat App.</p>
                   <div className=" mt-10">
                       <a href="https://chat.whatsapp.com/GMReW0NArzf2LtpStuoFhq"
-                          className='bg-purple-900 hover:bg-purple-700 transition-all  text-white rounded-full px-20 py-2 font-bold font-sans'>join our community</a>
+                          className='bg-purple-900 hover:bg-purple-700 transition-all px-10 py-3  text-white rounded-full  font-bold font-sans'>join our community</a>
                   </div>
                 
               <img src="/Waiuat disp copy 2.png"
@@ -36,11 +36,11 @@ const Waitlist = () => {
                   className='h-auto w-full object-cover transition duration-300 ease-in-out hover:scale-105'
                   alt="" />
               </div>
-              <div className="section2">
-              <h1 className='font-sans transition-all font-bold sm:text-7xl text-4xl ml-16 mt-10 py-16 text-left leading-normal'>This Application <br />is Currently <br /> Under Development</h1>
+              <div className="section2 py-20">
+              <h1 className=' font-sans transition-all font-bold sm:text-7xl text-5xl ml-16 mt-10 py-16 text-balance '>This Application <br />is Currently <br /> Under Development</h1>
               <div className=" mt-10 ml-16">
                       <a href="https://chat.whatsapp.com/GMReW0NArzf2LtpStuoFhq" 
-                          className='ml-10 bg-purple-900 hover:bg-purple-700 transition-all  text-white rounded-full px-20 py-3 font-bold font-sans'>join our community</a>
+                          className='ml-10 bg-purple-900 hover:bg-purple-700 transition-all  text-white rounded-full px-10 py-3 font-bold font-sans'>join our community</a>
                   </div>
               </div>
           </div>
