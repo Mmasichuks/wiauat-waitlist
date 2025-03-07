@@ -40,7 +40,7 @@ const Waitlist = () => {
               <h1 className=' font-sans transition-all font-bold sm:text-7xl text-5xl ml-16 mt-10 py-16 text-balance '>This Application <br />is Currently <br /> Under Development</h1>
               <div className=" mt-10 ml-16">
                       <a href="https://chat.whatsapp.com/GMReW0NArzf2LtpStuoFhq" 
-                          className='ml-10 bg-purple-900 hover:px-11 hover:py-4 transition-all  text-white rounded-full px-10 py-3 font-bold font-sans'>join our community</a>
+                          className='ml-10 bg-primary hover:px-11 hover:py-4 transition-all  text-white rounded-full px-10 py-3 font-bold font-sans'>join our community</a>
                   </div>
               </div>
           </div>
